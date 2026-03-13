@@ -18,5 +18,8 @@ released while the menu is open so you can click items freely.
   spawns the full quantity as a single dropped-item stack at the
   player's current position.
 
+## Installation
+Create a mods folder within lucid blocks directory and place Recipe_Browser_v0.1.pck inside.
+
 ## Notes
 - To uninstall, delete the mods/creative_menu/ folder (or its .pck).
